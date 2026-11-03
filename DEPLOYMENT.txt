@@ -1,0 +1,16 @@
+# Devendra Gupta Portfolio
+
+Files:
+- `index.html`
+- `style.css`
+- `script.js`
+
+## Publish with GitHub Pages
+1. Upload these three files to a GitHub repository (for example, `portfolio`).
+2. Replace `YOUR_LINKEDIN_URL`, `your-email@example.com`, and other placeholder contact details in `index.html`.
+3. Open repository **Settings → Pages**.
+4. Under **Build and deployment**, choose **Deploy from a branch**, select `main` and `/ (root)`, then Save.
+5. After deployment, GitHub will show the live website URL in Settings → Pages.
+
+If the repository is named `portfolio`, the expected URL is:
+`https://dev2d4v.github.io/portfolio/`
